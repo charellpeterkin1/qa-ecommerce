@@ -4,6 +4,10 @@ Automated end-to-end testing project for validating key user workflows in an e-c
 
 This project demonstrates how a QA engineer can design automated tests for authentication and form validation flows.
 
+## Preview
+
+![Project Screenshot](qa-ecommerce-screenshot.png)
+
 ## Features Tested
 
 - Login with valid credentials
