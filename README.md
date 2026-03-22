@@ -1,25 +1,33 @@
-# QA E-Commerce Automation
+# QA E-Commerce Test Automation
 
-This is an end-to-end testing project for an e-commerce website using WebDriverIO.
+Automated end-to-end testing project for validating key user workflows in an e-commerce web application using **WebdriverIO**.
 
-## Features
+This project demonstrates how a QA engineer can design automated tests for authentication and form validation flows.
 
-- Login with valid and invalid credentials
+## Features Tested
+
+- Login with valid credentials
+- Login validation with invalid credentials
 - Logout functionality
-- Form submissions and validations
+- Form submissions and input validation
+
+## Tools & Technologies
+
+- JavaScript
+- WebdriverIO
+- Node.js
+- Selenium WebDriver
 
 ## Setup Instructions
 
-1. **Clone the repository:**
+### 1. Clone the repository
 
-   ```bash
-   git clone https://github.com/your-username/qa-ecommerce-js.git
+```bash
+git clone https://github.com/charellpeterkin1/qa-ecommerce.git
+cd qa-ecommerce
 
-2. **Install dependencies**
-   cd qa-ecommerce-js
-   npm install
+### 2. Install dependencies
+npm install
 
-3. **Run tests**
-   npx wdio run wdio.conf.js
-
-
+### 3. Run the test
+npx wdio run wdio.conf.js
