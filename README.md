@@ -6,7 +6,7 @@ This project demonstrates how a QA engineer can design automated tests for authe
 
 ## Preview
 
-![Project Screenshot](qa-ecommerce-screenshot.png)
+![QA-Ecommerce Screenshot](qa-ecommerce-screenshot.png)
 
 ## Features Tested
 
